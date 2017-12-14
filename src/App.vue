@@ -1,6 +1,9 @@
 <template>
   <div id="app">
     <img src="./assets/logo.png"/>
+    <audio controls>
+      <source src='/static/1.mp3'></source>
+    </audio>
     <HelloWorld/>
   </div>
 </template>
